@@ -1,2 +1,2 @@
-# keras-environmentx86_64-apple-darwin15.6.0
+# keras-envi
 Piggyback repository for an R environment with keras configuration
